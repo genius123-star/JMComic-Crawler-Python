@@ -276,3 +276,6 @@ jmv 350234 -y
     <img alt="Repo Card" src="https://github-readme-stats.vercel.app/api/pin/?username=tonquer&repo=JMComic-qt" />
   </picture>
 </a>
+
+learning Git.
+#做的很好，等我尝试下，如果我成功看到了jm，必须给你个赞
